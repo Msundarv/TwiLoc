@@ -47,4 +47,4 @@ Note: Please read the [report](https://github.com/Msundarv/TwiLoc/blob/master/Re
 ## Authors
 
 - [Sundar V](http://msundarv.com/)
-- [Gogula Krishnan](https://github.com/GogulaK)
+- [Gogula Krishnan](https://sg.linkedin.com/in/gogulak)
