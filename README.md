@@ -1,4 +1,4 @@
-# TwiLoc - Location Prediction using Language Variation
+# TwiLoc - Location Prediction using Tweets
 
 TwiLoc investigates the feasibility of geographically locating Twitter users based solely on tweet content. We are trying to locate a user using their tweet content by understanding the dialect differences across geographies through deep learning techniques. We are not using any other external information to locate the user. This project provides an approach to augment existing systems that locate users.
 
